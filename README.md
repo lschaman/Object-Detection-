@@ -267,19 +267,3 @@ Contributions, issues, and feature requests are welcome.
 Feel free to fork the repository and submit pull requests.
 
 ---
-
-## ⭐ Support
-
-If you found this project useful:
-
-- 🌟 Star the repository
-- 🍴 Fork the project
-- 📢 Share with others
-
----
-
-## 👨‍💻 Developer
-
-**Chaman Jangid**
-
-Passionate about AI, Computer Vision, and Full Stack Development.
